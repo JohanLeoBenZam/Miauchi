@@ -1,0 +1,2068 @@
+fileFormatVersion: 2
+guid: d07a9faa500de84478723c1e58b154e3
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Meow_Knight_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 80
+      height: 101
+    spriteID: ef78c736928d72041b392c16159e8cee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Meow_Knight_Frame_35
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 532
+      y: 549
+      width: 80
+      height: 96
+    spriteID: 4eb550a8b0909f746a76e5649ae0693f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 532, y: 549}
+  - name: Meow_Knight_Frame_36
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 532
+      y: 653
+      width: 80
+      height: 96
+    spriteID: 04894b670258b0e40811375f9be0fce3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 532, y: 653}
+  - name: Meow_Knight_Frame_37
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 532
+      y: 757
+      width: 80
+      height: 96
+    spriteID: 3f318f067a258de478a99682a36d1ed9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 532, y: 757}
+  - name: Meow_Knight_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 113
+      width: 80
+      height: 101
+    spriteID: 30dab1599543ee1479b53d155bb5bc4a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 113}
+  - name: Meow_Knight_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 222
+      width: 80
+      height: 101
+    spriteID: 78ddd6a7db8f8f3459fe06361c9f908f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 222}
+  - name: Meow_Knight_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 331
+      width: 80
+      height: 101
+    spriteID: ad8ab48dcd6f61e4db8a92ca0f6790bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 331}
+  - name: Meow_Knight_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 440
+      width: 80
+      height: 101
+    spriteID: 62615953224c3a24aa5b355353ed7821
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 440}
+  - name: Meow_Knight_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 549
+      width: 80
+      height: 101
+    spriteID: 0dc7cb3d755a10b468d24263274a5911
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 549}
+  - name: Meow_Knight_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 658
+      width: 80
+      height: 101
+    spriteID: d01dc984b7b24cc4da185648e7078e60
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 658}
+  - name: Meow_Knight_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 767
+      width: 80
+      height: 101
+    spriteID: abcc60123f169d84681c722de8ec0fb0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 767}
+  - name: Meow_Knight_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 876
+      width: 80
+      height: 101
+    spriteID: 20c42f02cf0d3aa4e971d4e21938d676
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 876}
+  - name: Meow_Knight_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 4
+      width: 80
+      height: 101
+    spriteID: 8eb3216eaaedcfb4dbc70fc23c949219
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 4}
+  - name: Meow_Knight_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 113
+      width: 80
+      height: 101
+    spriteID: 6aed84da08e87cd4586b5d8035eff140
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 113}
+  - name: Meow_Knight_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 222
+      width: 80
+      height: 101
+    spriteID: d4e2d92671dff49468a563f2d9ac8a2a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 222}
+  - name: Meow_Knight_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 331
+      width: 80
+      height: 101
+    spriteID: 9707b8baddfe6a549b8675879428ab55
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 331}
+  - name: Meow_Knight_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 440
+      width: 80
+      height: 101
+    spriteID: 5983966198abd6a4c94b090309bbe70c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 440}
+  - name: Meow_Knight_Frame_14
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 549
+      width: 80
+      height: 101
+    spriteID: aa2f5fd10e926c64dbfdc42467f739b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 549}
+  - name: Meow_Knight_Frame_15
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 658
+      width: 80
+      height: 101
+    spriteID: 164b40b1560f68c4fb6cf2c64508576b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 658}
+  - name: Meow_Knight_Frame_16
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 767
+      width: 80
+      height: 101
+    spriteID: ddfed6edcc7dbbd4481679177340bf5c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 767}
+  - name: Meow_Knight_Frame_17
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 876
+      width: 80
+      height: 101
+    spriteID: 05ca6f688ef19e34b95a46e73d4fcbf3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 876}
+  - name: Meow_Knight_Frame_18
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 4
+      width: 80
+      height: 101
+    spriteID: 64cc1e047a8f9fd4bbc5c9287ef55db5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 4}
+  - name: Meow_Knight_Frame_19
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 113
+      width: 80
+      height: 101
+    spriteID: fc3a860b04a2a4244a4732eca7ef2230
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 113}
+  - name: Meow_Knight_Frame_20
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 222
+      width: 80
+      height: 101
+    spriteID: 5fd0fbbd876448b4486183deff401e28
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 222}
+  - name: Meow_Knight_Frame_21
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 331
+      width: 80
+      height: 101
+    spriteID: ef65d7670fd0e0d49b9d85064a9c6c8b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 331}
+  - name: Meow_Knight_Frame_22
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 440
+      width: 80
+      height: 101
+    spriteID: 4e28b0ea54277f54ab77c64899f260c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 440}
+  - name: Meow_Knight_Frame_23
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 549
+      width: 80
+      height: 101
+    spriteID: 432479f6460baf04487d2c61639ef0b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 549}
+  - name: Meow_Knight_Frame_24
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 658
+      width: 80
+      height: 101
+    spriteID: 99873336aef25fb45a890563d3ff24b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 658}
+  - name: Meow_Knight_Frame_25
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 767
+      width: 80
+      height: 101
+    spriteID: 6456a36558ea317469b900d00f60839e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 767}
+  - name: Meow_Knight_Frame_26
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 876
+      width: 80
+      height: 101
+    spriteID: 7dee48930c30b834086e3234d19132ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 876}
+  - name: Meow_Knight_Frame_27
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 268
+      y: 4
+      width: 80
+      height: 101
+    spriteID: 3f4e840f1bb17e447832d89f7fcd8f40
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 4}
+  - name: Meow_Knight_Frame_28
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 268
+      y: 113
+      width: 80
+      height: 101
+    spriteID: 2d40e3c337bdf80448d8c32149df6f6f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 113}
+  - name: Meow_Knight_Frame_29
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 268
+      y: 222
+      width: 80
+      height: 101
+    spriteID: 30bc4a4d30b29e842acc771f3729ad64
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 222}
+  - name: Meow_Knight_Frame_30
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 268
+      y: 331
+      width: 80
+      height: 101
+    spriteID: 9b500dbe581d5fc4d8f20d9f03f464cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 331}
+  - name: Meow_Knight_Frame_31
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 268
+      y: 440
+      width: 80
+      height: 101
+    spriteID: 889a8008a7e32874b8051972a8323730
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 440}
+  - name: Meow_Knight_Frame_32
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 268
+      y: 549
+      width: 80
+      height: 101
+    spriteID: 9af7c6236639d204495834f505246061
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 549}
+  - name: Meow_Knight_Frame_33
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 268
+      y: 658
+      width: 80
+      height: 101
+    spriteID: b754a743f28bcdb43bc9f4949b7629ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 658}
+  - name: Meow_Knight_Frame_34
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 268
+      y: 767
+      width: 80
+      height: 101
+    spriteID: 1b2ebd8815b4bcb46a312b0896f96ee7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 767}
+  - name: Meow_Knight_Frame_38
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 532
+      y: 861
+      width: 80
+      height: 96
+    spriteID: 8cd701672f1f7414a8bf1ec4e50cd7e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 532, y: 861}
+  - name: Meow_Knight_Frame_39
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 620
+      y: 4
+      width: 80
+      height: 96
+    spriteID: 5f1fc1de6b42a1c46886709a36edf335
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 620, y: 4}
+  - name: Meow_Knight_Frame_40
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 620
+      y: 108
+      width: 80
+      height: 96
+    spriteID: f39658bb2f5e74244802d99a62b5a821
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 620, y: 108}
+  - name: Meow_Knight_Frame_41
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 620
+      y: 212
+      width: 80
+      height: 96
+    spriteID: 9335bbfeeb0a6a543ae2f5c6bb39d735
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 620, y: 212}
+  - name: Meow_Knight_Frame_42
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 620
+      y: 316
+      width: 80
+      height: 96
+    spriteID: 78c86f625ae45a84e9e45ee993a44415
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 620, y: 316}
+  - name: Meow_Knight_Frame_43
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 620
+      y: 420
+      width: 80
+      height: 96
+    spriteID: 012c25a47cc053b4da29d0439fae2cb3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 620, y: 420}
+  - name: Meow_Knight_Frame_44
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 268
+      y: 876
+      width: 80
+      height: 101
+    spriteID: a1aeed4849939a9489ff8c7aba892784
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 876}
+  - name: Meow_Knight_Frame_45
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 356
+      y: 4
+      width: 80
+      height: 101
+    spriteID: 5502033a0c36d3d4783a737366895664
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 356, y: 4}
+  - name: Meow_Knight_Frame_46
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 356
+      y: 113
+      width: 80
+      height: 101
+    spriteID: 90bfb0b8a7e1f9b45be803239a959643
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 356, y: 113}
+  - name: Meow_Knight_Frame_47
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 356
+      y: 222
+      width: 80
+      height: 101
+    spriteID: 118be9a74247ff345bc7430321a183b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 356, y: 222}
+  - name: Meow_Knight_Frame_48
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 356
+      y: 331
+      width: 80
+      height: 101
+    spriteID: 832723018d71f1a4e9527c1397703d0f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 356, y: 331}
+  - name: Meow_Knight_Frame_49
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 356
+      y: 440
+      width: 80
+      height: 101
+    spriteID: 216473ad4311a894b866308442408b07
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 356, y: 440}
+  - name: Meow_Knight_Frame_50
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 356
+      y: 549
+      width: 80
+      height: 101
+    spriteID: 1bb16f71e6e8e884397682ddbf4ce0e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 356, y: 549}
+  - name: Meow_Knight_Frame_51
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 356
+      y: 658
+      width: 80
+      height: 101
+    spriteID: b6f3f74fa27adda4e8681a6224c90d59
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 356, y: 658}
+  - name: Meow_Knight_Frame_52
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 356
+      y: 767
+      width: 80
+      height: 101
+    spriteID: eeea1385ac2dfc847aefffc4178cbd01
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 356, y: 767}
+  - name: Meow_Knight_Frame_53
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 356
+      y: 876
+      width: 80
+      height: 101
+    spriteID: 222e8c043e2661d4e9f919026a67f581
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 356, y: 876}
+  - name: Meow_Knight_Frame_54
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 444
+      y: 4
+      width: 80
+      height: 101
+    spriteID: 8b889f05393ba2143a1425c7f70cf88b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 444, y: 4}
+  - name: Meow_Knight_Frame_55
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 444
+      y: 113
+      width: 80
+      height: 101
+    spriteID: 32e5aa89c1febc24db847b5363b683d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 444, y: 113}
+  - name: Meow_Knight_Frame_56
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 444
+      y: 222
+      width: 80
+      height: 101
+    spriteID: 0265c3b35dfcc324f80971c9bccb378c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 444, y: 222}
+  - name: Meow_Knight_Frame_57
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 444
+      y: 331
+      width: 80
+      height: 101
+    spriteID: 75c32d8e4327d65459f98ff0b7f5febb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 444, y: 331}
+  - name: Meow_Knight_Frame_58
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 444
+      y: 440
+      width: 80
+      height: 101
+    spriteID: 3e28ae95e2bd54a41a3002cc6654ee9a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 444, y: 440}
+  - name: Meow_Knight_Frame_59
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 444
+      y: 549
+      width: 80
+      height: 101
+    spriteID: 2a3f2eae8302f9a4087d5338b41f090e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 444, y: 549}
+  - name: Meow_Knight_Frame_60
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 444
+      y: 658
+      width: 80
+      height: 101
+    spriteID: c38dffb5521eb7449b4f283a71449d82
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 444, y: 658}
+  - name: Meow_Knight_Frame_61
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 620
+      y: 524
+      width: 80
+      height: 96
+    spriteID: eb5b95bd05479754a9fca6437b3df3fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 620, y: 524}
+  - name: Meow_Knight_Frame_62
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 444
+      y: 767
+      width: 80
+      height: 101
+    spriteID: b81d168aab78ec04b94544f9d6d00aff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 444, y: 767}
+  - name: Meow_Knight_Frame_63
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 444
+      y: 876
+      width: 80
+      height: 101
+    spriteID: 6aece69af51915b4fb7bc67ce8e8a30c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 444, y: 876}
+  - name: Meow_Knight_Frame_64
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 532
+      y: 4
+      width: 80
+      height: 101
+    spriteID: d8ffa1ff5db49c14eb9364a7cf92d413
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 532, y: 4}
+  - name: Meow_Knight_Frame_65
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 532
+      y: 113
+      width: 80
+      height: 101
+    spriteID: 01960493e5ad1b041b3db6e248b86496
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 532, y: 113}
+  - name: Meow_Knight_Frame_66
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 532
+      y: 222
+      width: 80
+      height: 101
+    spriteID: 7fa57ba57174c264dab610e2014afb4c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 532, y: 222}
+  - name: Meow_Knight_Frame_67
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 532
+      y: 331
+      width: 80
+      height: 101
+    spriteID: 17fede7d77d68f5498e17d7093315974
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 532, y: 331}
+  - name: Meow_Knight_Frame_68
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 532
+      y: 440
+      width: 80
+      height: 101
+    spriteID: c9eb1e76b0b336d47bb43c516cd1dceb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 532, y: 440}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1718786562
+    name: Meow_Knight
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Meow_Knight_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: ef78c736928d72041b392c16159e8cee
+    - name: Meow_Knight_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 0
+        y: -16
+        width: 80
+        height: 96
+      spriteId: 4eb550a8b0909f746a76e5649ae0693f
+    - name: Meow_Knight_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 0
+        y: -16
+        width: 80
+        height: 96
+      spriteId: 04894b670258b0e40811375f9be0fce3
+    - name: Meow_Knight_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 0
+        y: -16
+        width: 80
+        height: 96
+      spriteId: 3f318f067a258de478a99682a36d1ed9
+    - name: Meow_Knight_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 30dab1599543ee1479b53d155bb5bc4a
+    - name: Meow_Knight_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 78ddd6a7db8f8f3459fe06361c9f908f
+    - name: Meow_Knight_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: ad8ab48dcd6f61e4db8a92ca0f6790bb
+    - name: Meow_Knight_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 62615953224c3a24aa5b355353ed7821
+    - name: Meow_Knight_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 0dc7cb3d755a10b468d24263274a5911
+    - name: Meow_Knight_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: d01dc984b7b24cc4da185648e7078e60
+    - name: Meow_Knight_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: abcc60123f169d84681c722de8ec0fb0
+    - name: Meow_Knight_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 20c42f02cf0d3aa4e971d4e21938d676
+    - name: Meow_Knight_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 8eb3216eaaedcfb4dbc70fc23c949219
+    - name: Meow_Knight_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 6aed84da08e87cd4586b5d8035eff140
+    - name: Meow_Knight_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: d4e2d92671dff49468a563f2d9ac8a2a
+    - name: Meow_Knight_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 9707b8baddfe6a549b8675879428ab55
+    - name: Meow_Knight_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 5983966198abd6a4c94b090309bbe70c
+    - name: Meow_Knight_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: aa2f5fd10e926c64dbfdc42467f739b7
+    - name: Meow_Knight_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 164b40b1560f68c4fb6cf2c64508576b
+    - name: Meow_Knight_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: ddfed6edcc7dbbd4481679177340bf5c
+    - name: Meow_Knight_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 05ca6f688ef19e34b95a46e73d4fcbf3
+    - name: Meow_Knight_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 64cc1e047a8f9fd4bbc5c9287ef55db5
+    - name: Meow_Knight_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: fc3a860b04a2a4244a4732eca7ef2230
+    - name: Meow_Knight_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 5fd0fbbd876448b4486183deff401e28
+    - name: Meow_Knight_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: ef65d7670fd0e0d49b9d85064a9c6c8b
+    - name: Meow_Knight_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 4e28b0ea54277f54ab77c64899f260c7
+    - name: Meow_Knight_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 432479f6460baf04487d2c61639ef0b0
+    - name: Meow_Knight_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 99873336aef25fb45a890563d3ff24b0
+    - name: Meow_Knight_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 6456a36558ea317469b900d00f60839e
+    - name: Meow_Knight_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 7dee48930c30b834086e3234d19132ad
+    - name: Meow_Knight_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 3f4e840f1bb17e447832d89f7fcd8f40
+    - name: Meow_Knight_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 2d40e3c337bdf80448d8c32149df6f6f
+    - name: Meow_Knight_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 30bc4a4d30b29e842acc771f3729ad64
+    - name: Meow_Knight_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 9b500dbe581d5fc4d8f20d9f03f464cd
+    - name: Meow_Knight_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 889a8008a7e32874b8051972a8323730
+    - name: Meow_Knight_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 9af7c6236639d204495834f505246061
+    - name: Meow_Knight_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: b754a743f28bcdb43bc9f4949b7629ae
+    - name: Meow_Knight_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 1b2ebd8815b4bcb46a312b0896f96ee7
+    - name: Meow_Knight_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 0
+        y: -16
+        width: 80
+        height: 96
+      spriteId: 8cd701672f1f7414a8bf1ec4e50cd7e9
+    - name: Meow_Knight_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 0
+        y: -16
+        width: 80
+        height: 96
+      spriteId: 5f1fc1de6b42a1c46886709a36edf335
+    - name: Meow_Knight_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 0
+        y: -16
+        width: 80
+        height: 96
+      spriteId: f39658bb2f5e74244802d99a62b5a821
+    - name: Meow_Knight_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 0
+        y: -16
+        width: 80
+        height: 96
+      spriteId: 9335bbfeeb0a6a543ae2f5c6bb39d735
+    - name: Meow_Knight_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 0
+        y: -16
+        width: 80
+        height: 96
+      spriteId: 78c86f625ae45a84e9e45ee993a44415
+    - name: Meow_Knight_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 0
+        y: -16
+        width: 80
+        height: 96
+      spriteId: 012c25a47cc053b4da29d0439fae2cb3
+    - name: Meow_Knight_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: a1aeed4849939a9489ff8c7aba892784
+    - name: Meow_Knight_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 5502033a0c36d3d4783a737366895664
+    - name: Meow_Knight_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 90bfb0b8a7e1f9b45be803239a959643
+    - name: Meow_Knight_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 118be9a74247ff345bc7430321a183b3
+    - name: Meow_Knight_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 832723018d71f1a4e9527c1397703d0f
+    - name: Meow_Knight_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 216473ad4311a894b866308442408b07
+    - name: Meow_Knight_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 1bb16f71e6e8e884397682ddbf4ce0e9
+    - name: Meow_Knight_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: b6f3f74fa27adda4e8681a6224c90d59
+    - name: Meow_Knight_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: eeea1385ac2dfc847aefffc4178cbd01
+    - name: Meow_Knight_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 222e8c043e2661d4e9f919026a67f581
+    - name: Meow_Knight_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 8b889f05393ba2143a1425c7f70cf88b
+    - name: Meow_Knight_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 32e5aa89c1febc24db847b5363b683d4
+    - name: Meow_Knight_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 0265c3b35dfcc324f80971c9bccb378c
+    - name: Meow_Knight_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 75c32d8e4327d65459f98ff0b7f5febb
+    - name: Meow_Knight_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 3e28ae95e2bd54a41a3002cc6654ee9a
+    - name: Meow_Knight_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 2a3f2eae8302f9a4087d5338b41f090e
+    - name: Meow_Knight_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: c38dffb5521eb7449b4f283a71449d82
+    - name: Meow_Knight_Frame_61
+      frameIndex: 61
+      cellRect:
+        x: 0
+        y: -16
+        width: 80
+        height: 96
+      spriteId: eb5b95bd05479754a9fca6437b3df3fa
+    - name: Meow_Knight_Frame_62
+      frameIndex: 62
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: b81d168aab78ec04b94544f9d6d00aff
+    - name: Meow_Knight_Frame_63
+      frameIndex: 63
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 6aece69af51915b4fb7bc67ce8e8a30c
+    - name: Meow_Knight_Frame_64
+      frameIndex: 64
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: d8ffa1ff5db49c14eb9364a7cf92d413
+    - name: Meow_Knight_Frame_65
+      frameIndex: 65
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 01960493e5ad1b041b3db6e248b86496
+    - name: Meow_Knight_Frame_66
+      frameIndex: 66
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 7fa57ba57174c264dab610e2014afb4c
+    - name: Meow_Knight_Frame_67
+      frameIndex: 67
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: 17fede7d77d68f5498e17d7093315974
+    - name: Meow_Knight_Frame_68
+      frameIndex: 68
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 101
+      spriteId: c9eb1e76b0b336d47bb43c516cd1dceb
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 80}
