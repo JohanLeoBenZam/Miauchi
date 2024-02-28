@@ -1,4 +1,4 @@
-using System.Collections;
+ using System.Collections;
 using UnityEngine;
 
 public class AudioManager : MonoBehaviour
@@ -23,6 +23,7 @@ public class AudioManager : MonoBehaviour
 
     // volume: [0, 1]
 
+    //igual que el game manager, aquí creas métodos y como solo se necesita una instancia de AudioManager, luego pones AudioManager.instance, y pillas el método
     public AudioSource PlayAudio(AudioClip clip, float volume = 1)
     {
         GameObject sourceObj = new GameObject(clip.name);
