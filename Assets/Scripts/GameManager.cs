@@ -5,6 +5,20 @@ using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
+    public static GameManager instance;
+
+    public void Awake ()
+    {
+        if (!instance)
+        {
+            instance = this;
+            DontDestroyOnLoad(gameObject);
+        } else
+        {
+            Destroy(gameObject);
+            //Time.timeScale = 1.0f;
+        }
+    }   
 
     public string lastLevel;
 
@@ -20,7 +34,7 @@ public class GameManager : MonoBehaviour
 
     public void PlayAgain(string level)
     {
-        SceneManager.LoadScene(level);
+        SceneManager.LoadScene(GameManager.instance.lastLevel);
     }
 
     public void BackMenu(string menu)

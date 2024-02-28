@@ -30,6 +30,7 @@ public class PlayerLife : MonoBehaviour
 
     private void RestartGame()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        //GameManager.instance.lastLevel = "Nivel 1";
+        SceneManager.LoadScene("GameOver");
     }
 }
