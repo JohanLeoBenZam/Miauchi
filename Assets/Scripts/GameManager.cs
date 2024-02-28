@@ -7,25 +7,18 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
 
-    public void Awake ()
+    private void Awake ()
     {
-        if (!instance)
+        if (instance == null)
         {
             instance = this;
-            DontDestroyOnLoad(gameObject);
-        } else
-        {
-            Destroy(gameObject);
-            //Time.timeScale = 1.0f;
+
         }
+
+        Time.timeScale = 1f;
     }   
 
     public string lastLevel;
-
-    public void PlayNow(string game)
-    {
-        SceneManager.LoadScene(game);
-    }
 
     public void QuitGame()
     {
@@ -40,6 +33,7 @@ public class GameManager : MonoBehaviour
     public void BackMenu(string menu)
     {
         SceneManager.LoadScene(menu);
+        Time.timeScale = 1f;
     }
 
     public void LoadLevel(string name)
