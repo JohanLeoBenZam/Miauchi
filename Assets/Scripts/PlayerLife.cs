@@ -8,6 +8,7 @@ public class PlayerLife : MonoBehaviour
     private Animator anim;
     private Rigidbody2D rb;
     public AudioClip clip;
+    public AudioClip clip2;
     private void Start()
     {
         anim = GetComponent<Animator>();
@@ -19,6 +20,9 @@ public class PlayerLife : MonoBehaviour
         if (collision.gameObject.CompareTag("Trap"))
         {
             Die();
+        }else if (collision.gameObject.CompareTag("meta"))
+        {
+            ToMenu();
         }
     }
 
@@ -29,6 +33,7 @@ public class PlayerLife : MonoBehaviour
         anim.SetTrigger("death");
     }
 
+
     private void ToGameOver()
     {
         
@@ -37,5 +42,13 @@ public class PlayerLife : MonoBehaviour
         AudioManager.instance.PlayAudioOnLoop(clip, 1);
 
         SceneManager.LoadScene("GameOver");
+    }
+    private void ToMenu()
+    {
+
+        AudioManager.instance.StopLoopedAudio();
+        AudioManager.instance.PlayAudioOnLoop(clip2, 1);
+
+        SceneManager.LoadScene("MapaNiveles");
     }
 }
