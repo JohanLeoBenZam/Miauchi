@@ -7,18 +7,23 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
 
+    public string lastLevel;
+
     private void Awake ()
     {
         if (instance == null)
         {
             instance = this;
+            DontDestroyOnLoad(gameObject);
 
         }
+        else
+        {
+            Destroy(gameObject);
+        }
 
-        Time.timeScale = 1f;
+        //Time.timeScale = 1f;
     }   
-
-    public string lastLevel;
 
     public void QuitGame()
     {

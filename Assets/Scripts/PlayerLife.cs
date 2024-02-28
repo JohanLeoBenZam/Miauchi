@@ -28,9 +28,18 @@ public class PlayerLife : MonoBehaviour
         anim.SetTrigger("death");
     }
 
-    private void RestartGame()
+    private void ToGameOver()
     {
-        //GameManager.instance.lastLevel = "Nivel 1";
+         if(GameManager.instance == null)
+         {
+             Debug.Log("YOJAN");
+         }
+         else
+         {
+             GameManager.instance.lastLevel = "Nivel 1";
+         }
+        Debug.Log("HOLA");
+        
         SceneManager.LoadScene("GameOver");
     }
 }
