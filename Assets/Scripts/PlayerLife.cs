@@ -30,16 +30,8 @@ public class PlayerLife : MonoBehaviour
 
     private void ToGameOver()
     {
-         if(GameManager.instance == null)
-         {
-             Debug.Log("YOJAN");
-         }
-         else
-         {
-             GameManager.instance.lastLevel = "Nivel 1";
-         }
-        Debug.Log("HOLA");
-        
+        GameManager.instance.lastLevel = "Nivel 1";
+       
         SceneManager.LoadScene("GameOver");
     }
 }
