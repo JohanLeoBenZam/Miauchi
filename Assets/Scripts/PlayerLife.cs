@@ -37,7 +37,7 @@ public class PlayerLife : MonoBehaviour
     private void ToGameOver()
     {
         
-        GameManager.instance.lastLevel = "Nivel 1";
+        GameManager.instance.lastLevel = SceneManager.GetActiveScene().name;
         AudioManager.instance.StopLoopedAudio();
         AudioManager.instance.PlayAudioOnLoop(clip, 1);
 
@@ -45,11 +45,12 @@ public class PlayerLife : MonoBehaviour
     }
     private void ToMenu()
     {
-        LevelController.instance.MoreLevels();
-        Debug.Log("tienes " + PlayerPrefs.GetInt("unlockedLevels"));
-
+      
         AudioManager.instance.StopLoopedAudio();
         AudioManager.instance.PlayAudioOnLoop(clip2, 1);
+
+        LevelController.instance.MoreLevels();
+        Debug.Log("tienes " + PlayerPrefs.GetInt("unlockedLevels"));
 
         SceneManager.LoadScene("MapaNiveles");
     }
