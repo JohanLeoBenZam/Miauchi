@@ -49,6 +49,7 @@ public class PlayerLife : MonoBehaviour
         AudioManager.instance.StopLoopedAudio();
         AudioManager.instance.PlayAudioOnLoop(clip2, 1);
 
+        LevelController.instance.MoreLevels();
         SceneManager.LoadScene("MapaNiveles");
     }
 }
