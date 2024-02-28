@@ -292,7 +292,7 @@ MonoBehaviour:
   - {fileID: 1848522694}
   - {fileID: 110086032}
   - {fileID: 1164344963}
-  unlockLevel: 0
+  unlockLevel: 2
 --- !u!4 &140044809
 Transform:
   m_ObjectHideFlags: 0
@@ -686,10 +686,22 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 667320415}
         m_TargetAssemblyTypeName: LevelChange, Assembly-CSharp
-        m_MethodName: ChangeScene
+        m_MethodName: SelectLevel
         m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Nivel 2
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 667320415}
+        m_TargetAssemblyTypeName: LevelChange, Assembly-CSharp
+        m_MethodName: ChangeMusic2
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -945,6 +957,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   clip: {fileID: 8300000, guid: 5c4f3e5c08d5f0148906f5d9da48682c, type: 3}
+  clip2: {fileID: 8300000, guid: 5470e432d0c6c2b49b7e22ec1d02bc30, type: 3}
 --- !u!1 &1164344961
 GameObject:
   m_ObjectHideFlags: 0

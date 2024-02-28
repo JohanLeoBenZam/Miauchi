@@ -45,11 +45,12 @@ public class PlayerLife : MonoBehaviour
     }
     private void ToMenu()
     {
+        LevelController.instance.MoreLevels();
+        Debug.Log("tienes " + PlayerPrefs.GetInt("unlockedLevels"));
 
         AudioManager.instance.StopLoopedAudio();
         AudioManager.instance.PlayAudioOnLoop(clip2, 1);
 
-        LevelController.instance.MoreLevels();
         SceneManager.LoadScene("MapaNiveles");
     }
 }
